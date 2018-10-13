@@ -7,7 +7,7 @@ nirvana project sets out to prove that digital identity is possible through coop
 key principles:
 
 nirvana project is not monetized, there will be no ICO. Any future resources will be raised in bitcoin 
-on decentralized crowdfunding platforms.
+on decentralized crowdfunding platform.
 
 all code and specification is created under free software license. contributors are not paid.
 
