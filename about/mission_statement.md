@@ -16,6 +16,5 @@ no partnership with any other project, open for cooperation with all.
 mission objective:
 
 nirvana mission will be completed when digital identity is implemented as a Proof of Concept and is publicly demonstrated.
-This experiment shall create an architecture that will serve as valid and free option for consideration, shall any local authority that decides to implement
-digital identity. 
+This experiment shall create an architecture that will serve as valid and free option for consideration, shall any local authority decide to implement digital identity. 
 
