@@ -26,3 +26,7 @@ propose a system for creating one-way verifiable metadata
 propose a framework to integrate one-way verifiable metadata with local authority
 
 strictly separate private identities and official identity
+
+conduct extensive testing and attack vector analysis
+
+inform public
