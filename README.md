@@ -3,7 +3,7 @@ free, user-centric digital ID protocol
 
 Problem definition:
 
-Opportunity: >1b people do not have access to government-grade documentation (such as a passport) 
+*Opportunity: >1b people do not have access to government-grade documentation (such as a passport) 
 Privacy: effectively controling your data on the internet need more skill/knowledge/time than average user has
 Freedom: problem of having corporations & banks developping this important architecture with limited user perspective
 
