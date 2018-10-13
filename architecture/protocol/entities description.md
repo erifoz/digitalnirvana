@@ -17,7 +17,7 @@ Layer B requires a result of sha-512 as input and also returns a hash. As a prim
 Each identity is stored as values under timestamp hash. When Accessed by User’s smartphone, user’s application generate a referenceHash and send it into Layer B of NFC chip. Layer B tries to verify the referenceHash. If verified successfully, LayerB returns referenceHash2. Primitive solution is for Layer B chip to already have stored all possible timestamp hashes for several years into the future.
 
 4. Bitcoin main chain identity (public part of ‘proof of human’ Layer A)
-Identity on bitcoin main chain is expressed as an address and will be visible to all users. User is not required nor have access to private keys of this address. For the purpose of this experiment User’s smartphone is not in any way required nor have access to private keys of this address. For the same purpose, User’s smartphone is not in any way accessing data stored on bitcoin main chain.
+Identity on bitcoin main chain is expressed as an address and will be visible to all users. User is not required nor have access to private keys of this address. For the purpose of this experiment User’s smartphone is not in any way required nor have access to this address. For the same purpose, User’s smartphone is not in any way accessing data stored on bitcoin main chain.
 5. Local authority smartphone (Layer A)
 6. Local ID authority certificator
 7. Third party (Layer B)
