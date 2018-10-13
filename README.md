@@ -1,5 +1,5 @@
 # nirvana
-free, user-centric digital ID protocol
+free, user-centric digital ID protocol with decentralized metadata referencing
 
 Problem definition:
 
