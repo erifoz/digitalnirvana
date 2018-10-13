@@ -13,7 +13,7 @@ Goals definition:
 
 creating a proof of 'being human' - currently not possible on the internet (somehow solved by 'captcha' etc)
 
-creating a free protocol for implementation of digital identity
+creating a free protocol for implementation of digital identities
 
 provide a standard to generate multiple private pseudonymous identities
 
