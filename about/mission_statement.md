@@ -1,4 +1,4 @@
-The time when human brain is not powerful enough to fully keep up with its environment is here. One of the most fundamental 
+The time when human brain is not powerful enough to fully keep up with innovation in its environment is here. One of the most fundamental 
 problems on our journey to future society is going to be resolving the digital identity problem in such a way that will not
 end up as the means for further control of minority societies.
 
