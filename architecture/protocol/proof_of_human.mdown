@@ -6,8 +6,8 @@ Problem:
 
 Proof of Human:
 
-Are you human? - essentially a question whether you "have a human body". To prove to a third party that they are transacting with a unique human body should not include sharing any personal credentials. Proof shall consist only of a 
-reference that can be verified against various levels of metadata.
+Are you human? - essentially a question whether you "have a human body". To prove to a third party that they are transacting with a unique human body should not include sharing any personal credentials. 
+Proof shall consist only of a reference that can be verified against various levels of metadata.
 
 
 Trusting an authority:
