@@ -1,0 +1,21 @@
+Problem:
+
+1. in our online interactions, we are not able to prove we are humans.
+2. disclosing valid personal credentials does not guarantee a human user.
+
+
+Proof of Human:
+
+Are you human? - essentially a question whether you "have a human body". To prove to a third party that they are transacting with a unique human body should not include sharing any personal credentials. Proof shall consist only of a 
+reference that can be verified against various levels of metadata.
+
+
+Trusting an authority:
+
+Need for local authority to verify, extract biometric metadata and be an authority to warrant a proof that identity created on bitcoin ledger is indeed a unique human being. 
+
+
+Hardware chip implant:
+
+Smartphone ecosystem is not bound to human body and any information stored is not indicative of human user. Recovery of information managed by corporations is detrimental to security of the system.
+Introducing additional harware layer between entities in online information exchanges that is relatively inseparabable from the body creates ground for sufficient security implementation.
