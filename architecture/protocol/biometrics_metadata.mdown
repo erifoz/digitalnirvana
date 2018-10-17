@@ -1,0 +1,12 @@
+qualification of biometrics from privacy standpoint:
+
+based on access/data creation method (1 least private, 4 most private):
+1. facial recognition
+2. fingerprints
+3. retina scans
+4. DNA
+
+protocol
+1. no data is stored in it's entirety - creation of metadata
+2. verification is done via tests using reference hashes cointaining only partial biometric information
+3. public validation layer - to anonymously validate "proof of human", age restrictions, driving licence validity,...

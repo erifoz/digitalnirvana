@@ -27,4 +27,6 @@ propose a framework to integrate one-way verifiable metadata with local authorit
 
 strictly separate private identities and official identity
 
+offer a standard for considering privacy towards biometric data
+
 conduct extensive testing and attack vector analysis
