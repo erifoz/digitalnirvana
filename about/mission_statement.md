@@ -2,19 +2,18 @@ The time when human brain is not powerful enough to fully keep up with innovatio
 problems on our journey to future society is going to be resolving the digital identity problem in such a way that will not
 end up as the means for further control of minority societies.
 
-nirvana project sets out to prove that digital identity is possible through cooperation instead of disruption.
+digital nirvana project sets out to prove that digital identity is possible through cooperation instead of disruption.
 
 key principles:
 
-nirvana project is not monetized, there will be no ICO. Any future resources will be raised in bitcoin 
-on decentralized crowdfunding platform.
+1. digital nirvana project is not monetized, there will be no ICO. 
 
-all code and specification is created under free software license. contributors are not paid.
+2. all code and specification is created under free software license. contributors are not paid.
 
-no partnership with any other project, open for cooperation with all.
+3. no partnership with any other project, open for cooperation with all.
 
 mission objective:
 
-nirvana mission will be completed when digital identity is implemented as a Proof of Concept and is publicly demonstrated.
-This experiment shall create an architecture that will serve as valid and free option for consideration, shall any local authority decide to implement digital identity. 
+digital nirvana mission will be completed when digital identity is implemented as a Proof of Concept and is ready for public demonstration.
+This experiment shall propose an architecture that will serve as valid and free option for consideration, shall any local authority decide to implement digital identity. 
 

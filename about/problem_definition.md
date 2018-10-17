@@ -1,5 +1,4 @@
 #TO BE EDITED based on feedback from reddit: 
-https://www.reddit.com/user/erif_oz/comments/9nkh9l/need_help_building_a_trustless_and_free_digital/
 
 How to prove you are a human in an online transaction while maintaining control over data shared with third parties?
 
@@ -9,7 +8,7 @@ derived from their online presence without consent. Decentralizing security conc
 any single component of the system will not interfere with correct working of the rest of the system.
 
 Monetization problem – despite the increasing number of proprietary and Open source efforts, there is no comprehensive solution 
-to security. Significant part (not entire) of the solutions ecosystem need to be built under free software license paradigm, 
+to security. Significant part (not entire) of the solutions ecosystem shall be built under free software license paradigm, 
 encouraging peer review and open cooperation with everyone. Free definition of the protocol is clearly needed.
 
 Exclusion problem – each of available solutions being currently developed within certain perspective and carry its bias towards 
@@ -34,10 +33,7 @@ Individualistic data storage problem – in centralized data solutions presented
 database is broken into, attacker gains access over all the users subscribed to such centralized service. It must be unfeasible to 
 break all records at once. Breaking the identity of single person must require half the effort than of breaking the identity of two people.
 
-The blockchain problem – in 2009, a new technical capability was created: trustless, decentralized consensus. It should be clear that 
-certain attributes of this technology are going to be instrumental for the full scale digital identity solution. It is however not needed 
-to build new monetized blockchains that fail in comparison with existing consensus robustness because they lack the most important 
-attributes. Also, decentralizing personal data requires the solution not to entirely depend on any part of it’s ecosystem. 
+The blockchain problem – decentralizing personal data requires the solution not to entirely depend on any part of it’s ecosystem. 
 Volume-wise, only insignificant amount of transaction should be recorded on public ledger. Identity on the ledger must be publicly 
 visible but useless in itself to identify the person who controls it. Majority of our online interactions does not need to directly 
 touch any public ledger or invoke consensus rules. All the functionality that is required for a reasonably secure Proof of Concept 

@@ -1,32 +1,39 @@
-# nirvana
+# digital nirvana
 free, user-centric digital ID protocol with decentralized metadata referencing
+
+Digital Identity is a pre-requisite for:
+1. Decentralized, anonymous and trustless voting system
+2. Universal Basic Income (UBI)
+3. Universal Healthcare
+4. Human verification (online proof of being a human) – define, later used “human proof”
+
 
 Problem definition:
 
-Opportunity: >1b people do not have access to government-grade documentation (such as a passport) 
+1. Opportunity: >1b people do not have access to government-grade documentation (such as a passport) 
 
-Privacy: effectively controling your data on the internet need more skill/knowledge/time than average user has
+2. Privacy: effectively controling your data on the internet need more skill/knowledge/time than average user has
 
-Freedom: problem of having corporations & banks creating digital identity
+3. Freedom: problem of having corporations & banks creating digital identity
 
 Goals definition:
 
-creating a proof of 'being human' - currently not possible on the internet (somehow solved by 'captcha' etc)
+1. creating a proof of 'being human' - currently not possible on the internet (somehow solved by 'captcha' etc)
 
-creating a free protocol for implementation of digital identities
+2. creating a free protocol for implementation of digital identities
 
-provide a standard to generate multiple private pseudonymous identities
+3. provide a standard to generate multiple private pseudonymous identities
 
-provide a standard to Activate, Expire and Deactivate official identity
+4. provide a standard to Activate, Expire and Deactivate official identity
 
-propose a standard implementation of official identity on Bitcoin public ledger
+5. propose a standard implementation of official identity on Bitcoin public ledger
 
-propose a system for creating one-way verifiable metadata
+6. propose a system for creating one-way verifiable metadata
 
-propose a framework to integrate one-way verifiable metadata with local authority
+7. propose a framework to integrate one-way verifiable metadata with local authority
 
-strictly separate private identities and official identity
+8. strictly separate private identities and official identity
 
-offer a standard for considering privacy towards biometric data
+9. offer a standard for considering privacy towards biometric data
 
-conduct extensive testing and attack vector analysis
+10. conduct extensive testing and attack vector analysis
